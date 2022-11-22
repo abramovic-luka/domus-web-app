@@ -1,0 +1,20 @@
+{
+  "mobile_order": {
+    "name": "Lukas",
+    "email": "abc@luk.as",
+    "phone": "123456789",
+    "address": "Petrina 17",
+    "date": "7/7/2022",
+    "comment": "No comment",
+    "tax": 11,
+    "total_price": 832.5
+  },
+  "mobile_order_items": [
+    {
+      "amount": 1,
+      "price_item": 750,
+      "product_id": 5,
+      "product_name": "Kids Bed"
+    }
+  ]
+}

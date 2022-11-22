@@ -1,0 +1,3 @@
+[22-Oct-2022 12:36:47 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home3/abramski/public_html/Domus/mobile/api/products.php on line 15
+[22-Oct-2022 12:36:54 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home3/abramski/public_html/Domus/mobile/api/products.php on line 15
+[22-Oct-2022 12:36:58 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home3/abramski/public_html/Domus/mobile/api/products.php on line 15
